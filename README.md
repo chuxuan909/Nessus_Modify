@@ -6,11 +6,13 @@ Nessus扫描完成，总要花挺多时间去整理报告，为此写了一个�
 
 #### 使用目录介绍
 
+```txt
 Nessus_Modify
  
 │ Nessus_report.py           //脚本文件
 │ README.md                 
-│ vuln.db                     //中文漏洞库
+│ vuln.db
+```                     //中文漏洞库
 
 #### 使用简介
 
