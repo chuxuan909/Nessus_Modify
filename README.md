@@ -11,9 +11,8 @@ Nessus_Modify
  
 │ Nessus_report.py           //脚本文件
 │ README.md                 
-│ vuln.db
-```                     //中文漏洞库
-
+│ vuln.db                    //中文漏洞库
+```                    
 #### 使用简介
 
 1、Nessus扫描结束，选择HTML类型，Report选择Custom，Croup By 选择Host，导出HTML报告。
